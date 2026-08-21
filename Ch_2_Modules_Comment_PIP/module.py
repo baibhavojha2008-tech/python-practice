@@ -1,4 +1,4 @@
-import pyjokes
+import pyjokes  # type: ignore
 
 #  this is a comment
 #  this prints a random joke

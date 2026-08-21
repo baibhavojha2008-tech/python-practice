@@ -12,5 +12,5 @@ for i in range (1, n+1):
     print("*"*(2*i-1),end="") #For odd number of stars
     print("") #This simply moves the cursor to the next line.
 
-#end="" gives new line automatically
+#end="" prevents from  moving to next line immediately
 
