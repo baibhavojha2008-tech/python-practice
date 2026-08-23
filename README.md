@@ -1,6 +1,6 @@
 # Python Practice 🐍
 
-My Python learning and practice journey for Data Science.
+Python learning and practice journey for Data Science.
 
 ## PYTHON STARTS
 - Python Basics
