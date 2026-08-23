@@ -1,4 +1,4 @@
-# Python Practice 🐍
+# Python Basic Practice 🐍
 
 Python learning and practice journey for Data Science.
 
