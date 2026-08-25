@@ -9,3 +9,4 @@
  # Pandas can be said as ms excel version of python
 
 import pandas as pd
+# Write command pip install pandas in your terminal before importing pandas
