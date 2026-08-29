@@ -1,8 +1,9 @@
 # Python Basic Practice 🐍
-
 Python learning and practice journey for Data Science.
 
-## PYTHON STARTS
+---
+
+## PYTHON BASICS
 - Python Basics
 - Variables & Datatypes
 - Strings
@@ -16,3 +17,7 @@ Python learning and practice journey for Data Science.
 - NumPy
 - Pandas
 
+## 🔜 Coming Soon
+- Matplotlib
+- Seaborn
+- Real-world Data Science Project (Nepal Tourism Analysis)
