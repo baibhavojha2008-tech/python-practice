@@ -1,5 +1,9 @@
 No,Name,Type1,Type2,Height,Weight,Legendary
 1,Bulbasaur,Grass,Poison,0.7,6.9,0
+1,Bulbasaur,Grass,Poison,0.7,6.9,0
+1,Bulbasaur,Grass,Poison,0.7,6.9,0
+1,Bulbasaur,Grass,Poison,0.7,6.9,01
+1,Bulbasaur,Grass,Poison,0.7,6.9,0
 2,Ivysaur,Grass,Poison,1,13,0
 3,Venusaur,Grass,Poison,2,100,0
 4,Charmander,Fire,,0.6,8.5,0
@@ -148,4 +152,6 @@ No,Name,Type1,Type2,Height,Weight,Legendary
 147,Dratini,Dragon,,1.8,3.3,0
 148,Dragonair,Dragon,,4,16.5,0
 149,Dragonite,Dragon,Flying,2.2,210,0
+150,Mewtwo,Psychic,,2,122,1
+150,Mewtwo,Psychic,,2,122,1
 150,Mewtwo,Psychic,,2,122,1
