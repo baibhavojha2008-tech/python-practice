@@ -16,8 +16,8 @@ Python learning and practice journey for Data Science.
 ## LIBRARIES
 - NumPy
 - Pandas
+- Matplotlib
 
 ## 🔜 Coming Soon
-- Matplotlib
 - Seaborn
 - Real-world Data Science Project (Nepal Tourism Analysis)
