@@ -17,7 +17,4 @@ Python learning and practice journey for Data Science.
 - NumPy
 - Pandas
 - Matplotlib
-
-## 🔜 Coming Soon
 - Seaborn
-- Real-world Data Science Project (Nepal Tourism Analysis)
